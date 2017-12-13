@@ -9,5 +9,5 @@ OSINT:
   Subdomain Bruting
    gobuster -   https://github.com/OJ/gobuster
    massdns -   https://github.com/blechschmidt/massdns
-    
+     
    
